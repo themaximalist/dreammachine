@@ -1,0 +1,15 @@
+- how do you build the scene interatively? so render is much faster
+- edit/modify an existing scene
+- save JS eval?
+- modify prompt
+- diff.js support..good for making modifications
+- standardize on self-calling functions? makes it easy to know when an update can be applied
+
+- tools
+ - meshes
+ - textures
+ - fonts
+ - models
+- agent...go figure out how to do something
+
+- self healing..get an error when executing? retry automatically
