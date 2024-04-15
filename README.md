@@ -1,6 +1,4 @@
 # Dream Machine
-> imagine anything
-
-Prompt to Threejs
+> prompt to 3d scene
 
 https://dreammachineapp.com
